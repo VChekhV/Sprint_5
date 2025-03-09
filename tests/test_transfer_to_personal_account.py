@@ -1,4 +1,3 @@
-@@ -0,0 +1,53 @@
 from locators import MainPageLocators, PersonalAreaLocators, AuthPageLocators
 from urls import URLS
 from selenium.webdriver.support import expected_conditions as EC
